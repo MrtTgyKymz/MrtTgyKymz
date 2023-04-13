@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 
-🔭 I Expert in; Python <i>(pure Python, Django)</i>, PHP <i>(Laravel, Codeigniter)</i>, .Net <i>(C#, VB)</i>, Java, React Js
+🔭 I Expert in; Python <i>(pure Python, Django)</i>, PHP <i>(Laravel, Codeigniter)</i>, .Net <i>(C#, VB)</i>, Java, React Js...
 
 I have been working as a freelance software developer since 2008 in my expert fields, and as a professional software developer in the same fields since 2015. At the same time, I have academic experience and competence in the fields of statistics and machine learning / deep learning. In other words, i am full stack developer with a background in statistics and academics.
 
