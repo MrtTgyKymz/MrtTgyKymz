@@ -16,4 +16,4 @@ In summary I am:<br>
 🖼️ Experienced in graphic design, video editing, sound processing, 3D and architectural drawing.<br>
 and a passionate researcher.<br>
 
-<div style="width:100%;"><i>Contact Me:   </i><a href="https://linkedin.com/in/mrttgykymz" target="_blank"><img align="center" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white" alt="My LinkedIn Profile Page"/></a> | <a href="https://www.mertkaymaz.com" target="_blank" alt="My Web Page">www.mertkaymaz.com</a></div>
+<div style="width:100%;"><i>Contact Me:   </i><a href="https://linkedin.com/in/mrttgykymz" target="_blank"><img align="center" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white" title="My LinkedIn Profile Page"/></a> | <a href="https://www.mertkaymaz.com" target="_blank" title="My Web Page">www.mertkaymaz.com</a></div>
